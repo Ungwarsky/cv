@@ -1,0 +1,17 @@
+body {
+  background-color: beige;
+}
+h3 {color: rebeccapurple;
+}
+hr {
+  background-color: beige;
+  border-style:  none;
+  border-top-style: dotted;
+  border-color: rebeccapurple;
+  border-width: 10px;
+  width: 3%;
+}
+
+.prima {
+  color: black;
+}
